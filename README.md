@@ -1,2 +1,2 @@
-# Template-One-Leon-
-HTML and CSS Template One
+# Template One [Leon]
+Made with HTML and CSS.
