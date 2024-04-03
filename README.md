@@ -1,4 +1,4 @@
-# Template One [Leon]
+# Leon Template
 Made with HTML and CSS.
 
-You can show [Demo](https://islamothman0.github.io/LeonTemplate/).
+You can show Demo [Here](https://islamothman0.github.io/LeonTemplate/).
